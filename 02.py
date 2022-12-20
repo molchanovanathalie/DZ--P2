@@ -11,5 +11,5 @@ def Fact(num):
         list.append(result)
     return list
 
-n = int(input ('введите число '))
+n = int(input ('Введите число: '))
 print(Fact(n))
